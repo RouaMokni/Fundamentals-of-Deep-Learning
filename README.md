@@ -1,2 +1,2 @@
-# Fundamentals-of-Deep-Learning
-Fundamentals of Deep Learning Nvidia
+# Fundamentals-of-Deep-Learning Nvidia
+NVIDIA Deep Learning Institute– Fundamentals of Deep Learning
